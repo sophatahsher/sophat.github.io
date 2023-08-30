@@ -1,31 +1,16 @@
 /*=======================================================
-	
-	Item	: 	N5 - Minimal Resume/CV & vCard Template
-	
-	Author	: 	Noman Ali Samejo
-	
 --------------------------------------------------------------------------------------
 	List Of Contents
 --------------------------------------------------------------------------------------
-	
 	01. General Styles
-	
 	02. Menu
-	
 	03. Section Styles
-	
 	04. Main Section
-	
 	05. About Section
-	
 	06. Resume Section
-	
 	07. Portfolio Section
-	
 	08. Contact Section
-	
 	09. Responsive CSS
-
 =========================================================*/
 
 /*=======================================================
@@ -71,6 +56,13 @@ h1, h2, h3, h4, h5, h6{
 }
 img{
 	max-width:100%;
+}
+
+.mt-45 {
+	margin-top:45px !important;
+}
+.mb-45 {
+	margin-bottom:45px !important;
 }
 
 
