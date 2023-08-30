@@ -536,7 +536,7 @@ body.section-switching.up .animation-block{
 	background:#F0F0F0;
 }
 .about-block .section-header{
-	margin-bottom:80px;
+	margin-bottom: 45px;
 }
 .about-text > p{
 	font-size:14px;
@@ -570,7 +570,7 @@ body.section-switching.up .animation-block{
 	color:rgba(0,0,0,.4);
 }
 .services-block .section-header{
-	margin-bottom:80px;
+	margin-bottom: 45px;
 }
 .service{
 	padding:35px;
@@ -686,7 +686,7 @@ body.section-switching.up .animation-block{
 }
 
 .pricing-block .section-header{
-	margin-bottom:80px;
+	margin-bottom: 45px;
 }
 .p-table{
 	padding:40px;
@@ -781,7 +781,7 @@ body.section-switching.up .animation-block{
 	Resume Section
 =======================================================*/
 .timeline-block .section-header{
-	margin-bottom:80px;
+	margin-bottom: 45px;
 }
 .timeline{
 	margin:0;
@@ -849,7 +849,7 @@ body.section-switching.up .animation-block{
 	color:rgba(0,0,0,.4);
 }
 .testimonials-block .section-header{
-	margin-bottom:80px;
+	margin-bottom: 45px;
 }
 .testimonial{
 	position:relative;
@@ -910,7 +910,7 @@ body.section-switching.up .animation-block{
 	Portfolio Section
 =======================================================*/
 .portfolio-block .section-header{
-	margin-bottom:80px;
+	margin-bottom: 45px;
 }
 .portfolio-filters,
 .portfolio-items{
@@ -1155,7 +1155,7 @@ body.section-switching.up .animation-block{
 	Contact Section
 =======================================================*/
 .contact-block .section-header{
-	margin-bottom:80px;
+	margin-bottom: 45px;
 }
 .contact-form > .form-group:last-of-type{
 	margin:0;
