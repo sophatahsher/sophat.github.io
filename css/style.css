@@ -641,7 +641,7 @@ body.section-switching.up .animation-block{
 }
 .skill{
 	position:relative;
-	margin-bottom:40px;
+	margin-bottom: 30px;
 }
 .skill:last-of-type{
 	margin-bottom:0;
@@ -1365,7 +1365,7 @@ body.loaded #preloader .loader{
 		margin-bottom:25px;
 	}
 	.skills-block .skill{
-		margin-bottom:40px;
+		margin-bottom:30px;
 	}
 	div:last-of-type > .p-table,
 	div:last-of-type > .skill:last-of-type,
