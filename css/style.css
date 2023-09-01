@@ -1424,3 +1424,44 @@ body.loaded #preloader .loader{
 		padding-top:0;
 	}
 }
+
+
+.social {
+	margin-top: 0.5rem;
+	margin-bottom: calc(0.5rem * -1);
+}
+.social .icon-link {
+	font-family: 'Roboto Mono', sans-serif;
+	margin-right: 0.5rem;
+	margin-left: calc(0.5rem * -0.2);
+	display: inline-flex;
+    flex-shrink: 0;
+	font-size: 14px;
+	text-decoration: none;
+}
+.social .icon-link .linkedin-icon {
+	height: 24px;
+    width: 24px;
+    vertical-align: middle;
+    display: inline-block;
+	background-size:cover;
+	background-image:url(../img/linkedin.png);
+}
+
+.social .icon-link .twitter-icon {
+	height: 24px;
+    width: 24px;
+    vertical-align: middle;
+    display: inline-block;
+	background-size:cover;
+	background-image:url(../img/twitter.png);
+}
+
+.social .icon-link .github-icon {
+	height: 24px;
+    width: 24px;
+    vertical-align: middle;
+    display: inline-block;
+	background-size:cover;
+	background-image:url(../img/github.png);
+}
